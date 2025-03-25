@@ -14,7 +14,7 @@ If you'd like to develop and/or build the Machine Learning for Geo and Environme
 4. Run `jupyter-book clean sioc209-2025-sp/` to remove any existing builds
 5. Run `jupyter-book build sioc209-2025-sp/`
 
-A fully-rendered HTML version of the book will be built in `sioc209-2024-sp/_build/html/`.
+A fully-rendered HTML version of the book will be built in `sioc209-2025-sp/_build/html/`.
 
 ### Hosting the book
 
