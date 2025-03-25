@@ -41,7 +41,7 @@ jobs:
       # Build the book
       - name: Build the book
         run: |
-          jupyter-book build sioc209-2024-sp
+          jupyter-book build sioc209-2025-sp
 
       # Upload the book's HTML as an artifact
       - name: Upload artifact
