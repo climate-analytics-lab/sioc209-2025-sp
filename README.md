@@ -10,11 +10,11 @@ If you'd like to develop and/or build the Machine Learning for Geo and Environme
 
 1. Clone this repository
 2. Run `pip install -r requirements.txt` (it is recommended you do this within a virtual environment)
-3. (Optional) Edit the books source files located in the `sioc209-2024-sp/` directory
-4. Run `jupyter-book clean sioc209-2024-sp/` to remove any existing builds
-5. Run `jupyter-book build sioc209-2024-sp/`
+3. (Optional) Edit the books source files located in the `sioc209-2025-sp/` directory
+4. Run `jupyter-book clean sioc209-2025-sp/` to remove any existing builds
+5. Run `jupyter-book build sioc209-2025-sp/`
 
-A fully-rendered HTML version of the book will be built in `sioc209-2024-sp/_build/html/`.
+A fully-rendered HTML version of the book will be built in `sioc209-2025-sp/_build/html/`.
 
 ### Hosting the book
 
