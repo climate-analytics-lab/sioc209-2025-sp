@@ -208,3 +208,6 @@ pyrightconfig.json
 
 # MacOS
 .DS_Store
+
+# Keras files
+*.keras
